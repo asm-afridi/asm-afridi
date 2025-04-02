@@ -45,33 +45,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋
+# 👋 Hi there! Welcome to my GitHub!
 
-Welcome to my GitHub! I'm passionate about software testing and helping others excel in the world of test automation. Here’s a little bit about me:
+I'm an **aspiring Software Quality Assurance (SQA) Engineer** with a passion for both **manual and automated testing**. I'm continuously learning and improving my skills in **software testing, test automation, and quality assurance** to ensure reliable and high-quality software.
 
-## 🔧 What I Do
+## 🔍 What I’m Learning  
 
-- **Test Automation Trainer** at [testsmith.io](https://testsmith.io):
-  - I provide top-notch trainings in tools like **Selenium WebDriver**, **Playwright**, **Cypress**, **REST Assured**, and **Robot Framework**.
-  - I teach programming languages tailored for testers, such as **Java**, **Python**, and **JavaScript/TypeScript**.
+- **Manual Testing** – Writing test cases, executing test plans, and reporting defects  
+- **Automation Testing** – Exploring tools like **Selenium WebDriver, Cypress, and Playwright**  
+- **SQL & APIs** – Writing SQL queries for database testing and working with API testing tools like **Postman and REST Assured**  
+- **Programming for Testers** – Learning **Python, Java, and JavaScript** for automation scripting  
 
-- **Creator** of [PracticeSoftwareTesting.com](https://practicesoftwaretesting.com), a platform to learn software testing and experiment with -new- test automation tools.
+## 🛠️ My Tools & Tech Stack  
 
-## 🎨 Beyond the Code
+- **Testing Tools:** Selenium WebDriver, Cypress, Playwright, Postman, Appium 
+- **Languages:** Python, Java, JavaScript  
+- **Other Interests:** Writing test cases, exploratory testing, learning new testing methodologies  
 
-- I love exploring the world!
-- Cooking is my creative outlet—there's nothing like crafting delicious meals, especially on my kamado BBQ, and trying out new cuisines.
+## 🚀 My Journey  
 
-## 🛠️ My Tools & Tech Stack
+I'm actively building my **GitHub portfolio** with test automation projects, test case examples, and practical testing scenarios. I believe in **learning by doing** and love collaborating with others in the **SQA and testing community**.  
 
-- **Test Automation Tools:** Selenium WebDriver, Playwright, Cypress, REST Assured, Robot Framework
-- **Programming Languages:** Java, Python, JavaScript, TypeScript, PHP
-- **Other Interests:** Sharing knowledge through blogs and workshops, mentoring aspiring testers
+## 🌍 Connect with Me  
 
-## 🌐 Connect with Me
-
-- Visit my website: [testsmith.io](https://testsmith.io)
-- Explore my testing hub: [PracticeSoftwareTesting.com](https://practicesoftwaretesting.com)
-- Follow me on LinkedIn: [https://www.linkedin.com/in/roydekleijn/](https://www.linkedin.com/in/roydekleijn/)
-
-Let’s collaborate and learn together! Feel free to explore my public repositories and reach out if you have questions or ideas.
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/mr-afridi/)  
+- **WhatsApp:** [My WhatsApp](https://wa.me/8801990783542)
+Let’s learn and grow together in the world of software testing! 🚀  
