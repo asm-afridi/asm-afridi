@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afridi</h1>
+<!--<h1 align="center">Hi 👋, I'm Afridi</h1>
 <h3 align="center">An Aspiring Software Quality Assurance Engineer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asm-afridi" alt="asm-afridi" /></a> </p>
@@ -44,3 +44,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there! 👋
+
+Welcome to my GitHub! I'm passionate about software testing and helping others excel in the world of test automation. Here’s a little bit about me:
+
+## 🔧 What I Do
+
+- **Test Automation Trainer** at [testsmith.io](https://testsmith.io):
+  - I provide top-notch trainings in tools like **Selenium WebDriver**, **Playwright**, **Cypress**, **REST Assured**, and **Robot Framework**.
+  - I teach programming languages tailored for testers, such as **Java**, **Python**, and **JavaScript/TypeScript**.
+
+- **Creator** of [PracticeSoftwareTesting.com](https://practicesoftwaretesting.com), a platform to learn software testing and experiment with -new- test automation tools.
+
+## 🎨 Beyond the Code
+
+- I love exploring the world!
+- Cooking is my creative outlet—there's nothing like crafting delicious meals, especially on my kamado BBQ, and trying out new cuisines.
+
+## 🛠️ My Tools & Tech Stack
+
+- **Test Automation Tools:** Selenium WebDriver, Playwright, Cypress, REST Assured, Robot Framework
+- **Programming Languages:** Java, Python, JavaScript, TypeScript, PHP
+- **Other Interests:** Sharing knowledge through blogs and workshops, mentoring aspiring testers
+
+## 🌐 Connect with Me
+
+- Visit my website: [testsmith.io](https://testsmith.io)
+- Explore my testing hub: [PracticeSoftwareTesting.com](https://practicesoftwaretesting.com)
+- Follow me on LinkedIn: [https://www.linkedin.com/in/roydekleijn/](https://www.linkedin.com/in/roydekleijn/)
+
+Let’s collaborate and learn together! Feel free to explore my public repositories and reach out if you have questions or ideas.
