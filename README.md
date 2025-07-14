@@ -51,7 +51,7 @@ Pytest | Postman | Unittest | Selenium
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=asm-afridi&" alt="asm-afridi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asm-afridi&theme=dark&hide_border=true" />
 </p>
 
 ---
